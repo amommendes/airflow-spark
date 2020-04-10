@@ -28,3 +28,5 @@ __pycache__
 docker-airflow/pgdata/*
 docker-spark/livy/apache-livy/logs/*
 .idea
+
+docker-spark/livy/apache-livy/jars/
